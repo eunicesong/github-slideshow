@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+May the odds be ever in your favor
 Use the left arrow to go back!
